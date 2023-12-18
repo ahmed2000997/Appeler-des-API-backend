@@ -5,7 +5,7 @@ Step 1: Install XAMPP
 Install XAMPP on your system.
 Step 2: Move PHP File
 
-Move the PHP file to the following path: C:\xampp\htdocs.
+Move the PHP.RAR file You can find it in the project code above to the following path: C:\xampp\htdocs.
 Step 3: Start MySQL Server
 
 Run the MySQL server.
